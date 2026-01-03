@@ -1,0 +1,9 @@
+services:
+  churn-api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: customer-churn-api
+    ports:
+      - "8000:8000"
+    restart: always

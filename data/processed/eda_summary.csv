@@ -1,0 +1,12 @@
+,missing_pct,unique_values
+customer_id,0.0,5000
+age,0.0,52
+tenure_months,0.0,59
+monthly_charges,0.0,4224
+total_charges,0.0,4930
+usage_minutes,0.0,611
+support_tickets,0.0,8
+last_login_days,0.0,60
+contract_type,0.0,3
+payment_method,0.0,4
+churn,0.0,2
